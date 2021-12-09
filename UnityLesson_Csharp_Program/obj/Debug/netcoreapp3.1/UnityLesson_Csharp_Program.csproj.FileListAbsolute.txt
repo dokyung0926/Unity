@@ -1,0 +1,14 @@
+C:\LeeDokyeong\Unity\UnityLesson_Csharp_Program\bin\Debug\netcoreapp3.1\UnityLesson_Csharp_Program.exe
+C:\LeeDokyeong\Unity\UnityLesson_Csharp_Program\bin\Debug\netcoreapp3.1\UnityLesson_Csharp_Program.deps.json
+C:\LeeDokyeong\Unity\UnityLesson_Csharp_Program\bin\Debug\netcoreapp3.1\UnityLesson_Csharp_Program.runtimeconfig.json
+C:\LeeDokyeong\Unity\UnityLesson_Csharp_Program\bin\Debug\netcoreapp3.1\UnityLesson_Csharp_Program.runtimeconfig.dev.json
+C:\LeeDokyeong\Unity\UnityLesson_Csharp_Program\bin\Debug\netcoreapp3.1\UnityLesson_Csharp_Program.dll
+C:\LeeDokyeong\Unity\UnityLesson_Csharp_Program\bin\Debug\netcoreapp3.1\UnityLesson_Csharp_Program.pdb
+C:\LeeDokyeong\Unity\UnityLesson_Csharp_Program\obj\Debug\netcoreapp3.1\UnityLesson_Csharp_Program.csproj.AssemblyReference.cache
+C:\LeeDokyeong\Unity\UnityLesson_Csharp_Program\obj\Debug\netcoreapp3.1\UnityLesson_Csharp_Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\LeeDokyeong\Unity\UnityLesson_Csharp_Program\obj\Debug\netcoreapp3.1\UnityLesson_Csharp_Program.AssemblyInfoInputs.cache
+C:\LeeDokyeong\Unity\UnityLesson_Csharp_Program\obj\Debug\netcoreapp3.1\UnityLesson_Csharp_Program.AssemblyInfo.cs
+C:\LeeDokyeong\Unity\UnityLesson_Csharp_Program\obj\Debug\netcoreapp3.1\UnityLesson_Csharp_Program.csproj.CoreCompileInputs.cache
+C:\LeeDokyeong\Unity\UnityLesson_Csharp_Program\obj\Debug\netcoreapp3.1\UnityLesson_Csharp_Program.dll
+C:\LeeDokyeong\Unity\UnityLesson_Csharp_Program\obj\Debug\netcoreapp3.1\UnityLesson_Csharp_Program.pdb
+C:\LeeDokyeong\Unity\UnityLesson_Csharp_Program\obj\Debug\netcoreapp3.1\UnityLesson_Csharp_Program.genruntimeconfig.cache
