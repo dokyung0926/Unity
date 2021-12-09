@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31911.196
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityLesson_Csharp_Program", "UnityLesson_Csharp_Program.csproj", "{B1D72C06-0B80-49F8-B04A-F3CC9DA3492C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnityLesson_Csharp_Program", "UnityLesson_Csharp_Program.csproj", "{B1D72C06-0B80-49F8-B04A-F3CC9DA3492C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityLEsson_CSharp_Variables", "..\UnityLEsson_CSharp_Valuables\UnityLEsson_CSharp_Variables.csproj", "{D50AD5B1-B835-44B5-944C-26AB175DE7C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityLesson_CSharp_IF", "..\UnityLesson_CSharp_IF\UnityLesson_CSharp_IF.csproj", "{E7B29874-381F-4BE6-AD62-294859F1783E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityLesson_CSharp_Function", "..\UnityLesson_CSharp_Function\UnityLesson_CSharp_Function.csproj", "{21D10FFC-3E40-4571-9127-7A8601C79269}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +21,18 @@ Global
 		{B1D72C06-0B80-49F8-B04A-F3CC9DA3492C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B1D72C06-0B80-49F8-B04A-F3CC9DA3492C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B1D72C06-0B80-49F8-B04A-F3CC9DA3492C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D50AD5B1-B835-44B5-944C-26AB175DE7C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D50AD5B1-B835-44B5-944C-26AB175DE7C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D50AD5B1-B835-44B5-944C-26AB175DE7C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D50AD5B1-B835-44B5-944C-26AB175DE7C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7B29874-381F-4BE6-AD62-294859F1783E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7B29874-381F-4BE6-AD62-294859F1783E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7B29874-381F-4BE6-AD62-294859F1783E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7B29874-381F-4BE6-AD62-294859F1783E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21D10FFC-3E40-4571-9127-7A8601C79269}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21D10FFC-3E40-4571-9127-7A8601C79269}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21D10FFC-3E40-4571-9127-7A8601C79269}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21D10FFC-3E40-4571-9127-7A8601C79269}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
