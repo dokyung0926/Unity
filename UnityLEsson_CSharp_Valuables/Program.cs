@@ -10,7 +10,7 @@ namespace UnityLEsson_CSharp_Valuables
         }
     }
 
-    class person
+    class Person
     {
         // bit = 한자리 이진수 ( 0과 1, 정보처리의 최소단위 )
         // 1 Byte = 8 bit ( CPU 데이터 처리 최소단위 )
