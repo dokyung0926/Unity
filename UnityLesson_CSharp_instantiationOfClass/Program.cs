@@ -7,8 +7,6 @@ namespace UnityLesson_CSharp_instantiationOfClass
         static void Main(string[] args)
         {
             Person person1 = new Person();
-            // .  점연산자
-            // 클래스의 멤버에 접근할때 사용, namespace 안의 클래스에 접근할때 사용.
             person1.age = 40; // 정수형은 그냥 숫자 입력
             person1.height = 223.4f; // 실수형은 숫자 뒤에 f 추가 입력
             person1.isFemale = false; // 논리형은 true 혹은 false 입력
