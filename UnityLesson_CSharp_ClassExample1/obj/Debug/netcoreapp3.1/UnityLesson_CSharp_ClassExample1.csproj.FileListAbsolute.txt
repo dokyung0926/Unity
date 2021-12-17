@@ -1,0 +1,14 @@
+C:\LeeDokyeong Unity\Unity\UnityLesson_CSharp_ClassExample1\bin\Debug\netcoreapp3.1\UnityLesson_CSharp_ClassExample1.exe
+C:\LeeDokyeong Unity\Unity\UnityLesson_CSharp_ClassExample1\bin\Debug\netcoreapp3.1\UnityLesson_CSharp_ClassExample1.deps.json
+C:\LeeDokyeong Unity\Unity\UnityLesson_CSharp_ClassExample1\bin\Debug\netcoreapp3.1\UnityLesson_CSharp_ClassExample1.runtimeconfig.json
+C:\LeeDokyeong Unity\Unity\UnityLesson_CSharp_ClassExample1\bin\Debug\netcoreapp3.1\UnityLesson_CSharp_ClassExample1.runtimeconfig.dev.json
+C:\LeeDokyeong Unity\Unity\UnityLesson_CSharp_ClassExample1\bin\Debug\netcoreapp3.1\UnityLesson_CSharp_ClassExample1.dll
+C:\LeeDokyeong Unity\Unity\UnityLesson_CSharp_ClassExample1\bin\Debug\netcoreapp3.1\UnityLesson_CSharp_ClassExample1.pdb
+C:\LeeDokyeong Unity\Unity\UnityLesson_CSharp_ClassExample1\obj\Debug\netcoreapp3.1\UnityLesson_CSharp_ClassExample1.csproj.AssemblyReference.cache
+C:\LeeDokyeong Unity\Unity\UnityLesson_CSharp_ClassExample1\obj\Debug\netcoreapp3.1\UnityLesson_CSharp_ClassExample1.GeneratedMSBuildEditorConfig.editorconfig
+C:\LeeDokyeong Unity\Unity\UnityLesson_CSharp_ClassExample1\obj\Debug\netcoreapp3.1\UnityLesson_CSharp_ClassExample1.AssemblyInfoInputs.cache
+C:\LeeDokyeong Unity\Unity\UnityLesson_CSharp_ClassExample1\obj\Debug\netcoreapp3.1\UnityLesson_CSharp_ClassExample1.AssemblyInfo.cs
+C:\LeeDokyeong Unity\Unity\UnityLesson_CSharp_ClassExample1\obj\Debug\netcoreapp3.1\UnityLesson_CSharp_ClassExample1.csproj.CoreCompileInputs.cache
+C:\LeeDokyeong Unity\Unity\UnityLesson_CSharp_ClassExample1\obj\Debug\netcoreapp3.1\UnityLesson_CSharp_ClassExample1.dll
+C:\LeeDokyeong Unity\Unity\UnityLesson_CSharp_ClassExample1\obj\Debug\netcoreapp3.1\UnityLesson_CSharp_ClassExample1.pdb
+C:\LeeDokyeong Unity\Unity\UnityLesson_CSharp_ClassExample1\obj\Debug\netcoreapp3.1\UnityLesson_CSharp_ClassExample1.genruntimeconfig.cache

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\LeeDokyeong\\Unity\\UnityLesson_Cshat_Class_Object_Instance\\UnityLesson_Cshat_Class_Object_Instance.csproj": {}
+    "C:\\LeeDokyeong Unity\\Unity\\UnityLesson_Cshat_Class_Object_Instance\\UnityLesson_Cshat_Class_Object_Instance.csproj": {}
   },
   "projects": {
-    "C:\\LeeDokyeong\\Unity\\UnityLesson_Cshat_Class_Object_Instance\\UnityLesson_Cshat_Class_Object_Instance.csproj": {
+    "C:\\LeeDokyeong Unity\\Unity\\UnityLesson_Cshat_Class_Object_Instance\\UnityLesson_Cshat_Class_Object_Instance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\LeeDokyeong\\Unity\\UnityLesson_Cshat_Class_Object_Instance\\UnityLesson_Cshat_Class_Object_Instance.csproj",
+        "projectUniqueName": "C:\\LeeDokyeong Unity\\Unity\\UnityLesson_Cshat_Class_Object_Instance\\UnityLesson_Cshat_Class_Object_Instance.csproj",
         "projectName": "UnityLesson_Cshat_Class_Object_Instance",
-        "projectPath": "C:\\LeeDokyeong\\Unity\\UnityLesson_Cshat_Class_Object_Instance\\UnityLesson_Cshat_Class_Object_Instance.csproj",
-        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\LeeDokyeong\\Unity\\UnityLesson_Cshat_Class_Object_Instance\\obj\\",
+        "projectPath": "C:\\LeeDokyeong Unity\\Unity\\UnityLesson_Cshat_Class_Object_Instance\\UnityLesson_Cshat_Class_Object_Instance.csproj",
+        "packagesPath": "C:\\Users\\dlgnl\\.nuget\\packages\\",
+        "outputPath": "C:\\LeeDokyeong Unity\\Unity\\UnityLesson_Cshat_Class_Object_Instance\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\dlgnl\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
