@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31829.152
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityLesson_CSharp_ClassExample1", "..\UnityLesson_CSharp_ClassExample1\UnityLesson_CSharp_ClassExample1.csproj", "{5A7ED856-6200-4EF3-A49F-B515225A33F1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnityLesson_CSharp_ClassExample1", "..\UnityLesson_CSharp_ClassExample1\UnityLesson_CSharp_ClassExample1.csproj", "{5A7ED856-6200-4EF3-A49F-B515225A33F1}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D8D344CB-5081-46C5-875B-3598DABF79CB}"
 	ProjectSection(SolutionItems) = preProject
@@ -13,7 +13,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		..\UnityLesson_CSharp_Function\Program.cs = ..\UnityLesson_CSharp_Function\Program.cs
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityLesson_CSharp_StaticExample", "..\UnityLesson_CSharp_StaticExample\UnityLesson_CSharp_StaticExample.csproj", "{CD75AD0E-A681-4849-976C-4A2ABD2075F9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnityLesson_CSharp_StaticExample", "..\UnityLesson_CSharp_StaticExample\UnityLesson_CSharp_StaticExample.csproj", "{CD75AD0E-A681-4849-976C-4A2ABD2075F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityLesson_CSharp_Operator", "UnityLesson_CSharp_Operator\UnityLesson_CSharp_Operator.csproj", "{64D66772-74C9-41AF-B2FC-6A4176694344}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,6 +31,10 @@ Global
 		{CD75AD0E-A681-4849-976C-4A2ABD2075F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CD75AD0E-A681-4849-976C-4A2ABD2075F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CD75AD0E-A681-4849-976C-4A2ABD2075F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64D66772-74C9-41AF-B2FC-6A4176694344}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64D66772-74C9-41AF-B2FC-6A4176694344}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64D66772-74C9-41AF-B2FC-6A4176694344}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64D66772-74C9-41AF-B2FC-6A4176694344}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

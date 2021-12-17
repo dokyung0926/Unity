@@ -1,0 +1,13 @@
+C:\LeeDokyeong Unity\Unity\UnityLesson_CSharp_Basic\UnityLesson_CSharp_Operator\bin\Debug\netcoreapp3.1\UnityLesson_CSharp_Operator.exe
+C:\LeeDokyeong Unity\Unity\UnityLesson_CSharp_Basic\UnityLesson_CSharp_Operator\bin\Debug\netcoreapp3.1\UnityLesson_CSharp_Operator.deps.json
+C:\LeeDokyeong Unity\Unity\UnityLesson_CSharp_Basic\UnityLesson_CSharp_Operator\bin\Debug\netcoreapp3.1\UnityLesson_CSharp_Operator.runtimeconfig.json
+C:\LeeDokyeong Unity\Unity\UnityLesson_CSharp_Basic\UnityLesson_CSharp_Operator\bin\Debug\netcoreapp3.1\UnityLesson_CSharp_Operator.runtimeconfig.dev.json
+C:\LeeDokyeong Unity\Unity\UnityLesson_CSharp_Basic\UnityLesson_CSharp_Operator\bin\Debug\netcoreapp3.1\UnityLesson_CSharp_Operator.dll
+C:\LeeDokyeong Unity\Unity\UnityLesson_CSharp_Basic\UnityLesson_CSharp_Operator\bin\Debug\netcoreapp3.1\UnityLesson_CSharp_Operator.pdb
+C:\LeeDokyeong Unity\Unity\UnityLesson_CSharp_Basic\UnityLesson_CSharp_Operator\obj\Debug\netcoreapp3.1\UnityLesson_CSharp_Operator.GeneratedMSBuildEditorConfig.editorconfig
+C:\LeeDokyeong Unity\Unity\UnityLesson_CSharp_Basic\UnityLesson_CSharp_Operator\obj\Debug\netcoreapp3.1\UnityLesson_CSharp_Operator.AssemblyInfoInputs.cache
+C:\LeeDokyeong Unity\Unity\UnityLesson_CSharp_Basic\UnityLesson_CSharp_Operator\obj\Debug\netcoreapp3.1\UnityLesson_CSharp_Operator.AssemblyInfo.cs
+C:\LeeDokyeong Unity\Unity\UnityLesson_CSharp_Basic\UnityLesson_CSharp_Operator\obj\Debug\netcoreapp3.1\UnityLesson_CSharp_Operator.csproj.CoreCompileInputs.cache
+C:\LeeDokyeong Unity\Unity\UnityLesson_CSharp_Basic\UnityLesson_CSharp_Operator\obj\Debug\netcoreapp3.1\UnityLesson_CSharp_Operator.dll
+C:\LeeDokyeong Unity\Unity\UnityLesson_CSharp_Basic\UnityLesson_CSharp_Operator\obj\Debug\netcoreapp3.1\UnityLesson_CSharp_Operator.pdb
+C:\LeeDokyeong Unity\Unity\UnityLesson_CSharp_Basic\UnityLesson_CSharp_Operator\obj\Debug\netcoreapp3.1\UnityLesson_CSharp_Operator.genruntimeconfig.cache
