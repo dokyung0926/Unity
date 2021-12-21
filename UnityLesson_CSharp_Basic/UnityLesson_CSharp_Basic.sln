@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31829.152
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnityLesson_CSharp_ClassExample1", "..\UnityLesson_CSharp_ClassExample1\UnityLesson_CSharp_ClassExample1.csproj", "{5A7ED856-6200-4EF3-A49F-B515225A33F1}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D8D344CB-5081-46C5-875B-3598DABF79CB}"
 	ProjectSection(SolutionItems) = preProject
 		..\UnityLesson_CSharp_instantiationOfClass\Program.cs = ..\UnityLesson_CSharp_instantiationOfClass\Program.cs
@@ -13,9 +11,15 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		..\UnityLesson_CSharp_Function\Program.cs = ..\UnityLesson_CSharp_Function\Program.cs
 	EndProjectSection
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnityLesson_CSharp_StaticExample", "..\UnityLesson_CSharp_StaticExample\UnityLesson_CSharp_StaticExample.csproj", "{CD75AD0E-A681-4849-976C-4A2ABD2075F9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnityLesson_CSharp_Operator", "UnityLesson_CSharp_Operator\UnityLesson_CSharp_Operator.csproj", "{64D66772-74C9-41AF-B2FC-6A4176694344}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityLesson_CSharp_Operator", "UnityLesson_CSharp_Operator\UnityLesson_CSharp_Operator.csproj", "{64D66772-74C9-41AF-B2FC-6A4176694344}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnityLesson_CSharp_Array", "UnityLesson_CSharp_Array\UnityLesson_CSharp_Array.csproj", "{5BB2EE8A-2419-45AA-9582-00CD7CAC4A57}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnityLesson_CSharp_WhileLoop", "UnityLesson_CSharp_WhileLoop\UnityLesson_CSharp_WhileLoop.csproj", "{DF395B55-8F3F-4DEF-986A-2BBB7872F9DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityLesson_CSharp_ForLoop", "UnityLesson_CSharp_ForLoop\UnityLesson_CSharp_ForLoop.csproj", "{BFD0A27A-0D5D-4E5E-9645-648E52A83728}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityLesson_CSharp_ForLoopExample", "UnityLesson_CSharp_ForLoopExample\UnityLesson_CSharp_ForLoopExample.csproj", "{42D95C7F-5D85-4142-AE89-04EB7C8BF248}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,18 +27,26 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{5A7ED856-6200-4EF3-A49F-B515225A33F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5A7ED856-6200-4EF3-A49F-B515225A33F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5A7ED856-6200-4EF3-A49F-B515225A33F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5A7ED856-6200-4EF3-A49F-B515225A33F1}.Release|Any CPU.Build.0 = Release|Any CPU
-		{CD75AD0E-A681-4849-976C-4A2ABD2075F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CD75AD0E-A681-4849-976C-4A2ABD2075F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CD75AD0E-A681-4849-976C-4A2ABD2075F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CD75AD0E-A681-4849-976C-4A2ABD2075F9}.Release|Any CPU.Build.0 = Release|Any CPU
 		{64D66772-74C9-41AF-B2FC-6A4176694344}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{64D66772-74C9-41AF-B2FC-6A4176694344}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{64D66772-74C9-41AF-B2FC-6A4176694344}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{64D66772-74C9-41AF-B2FC-6A4176694344}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BB2EE8A-2419-45AA-9582-00CD7CAC4A57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BB2EE8A-2419-45AA-9582-00CD7CAC4A57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BB2EE8A-2419-45AA-9582-00CD7CAC4A57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BB2EE8A-2419-45AA-9582-00CD7CAC4A57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF395B55-8F3F-4DEF-986A-2BBB7872F9DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF395B55-8F3F-4DEF-986A-2BBB7872F9DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF395B55-8F3F-4DEF-986A-2BBB7872F9DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF395B55-8F3F-4DEF-986A-2BBB7872F9DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFD0A27A-0D5D-4E5E-9645-648E52A83728}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFD0A27A-0D5D-4E5E-9645-648E52A83728}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFD0A27A-0D5D-4E5E-9645-648E52A83728}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFD0A27A-0D5D-4E5E-9645-648E52A83728}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42D95C7F-5D85-4142-AE89-04EB7C8BF248}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42D95C7F-5D85-4142-AE89-04EB7C8BF248}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42D95C7F-5D85-4142-AE89-04EB7C8BF248}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42D95C7F-5D85-4142-AE89-04EB7C8BF248}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
