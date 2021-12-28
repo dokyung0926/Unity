@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\LeeDokyeong\\UnityLesson_CSharp_Basic\\unityLesson_CSharp_Collection\\unityLesson_CSharp_Collection.csproj": {}
+    "C:\\LeeDokyeong Unity\\Unity\\UnityLesson_CSharp_Basic\\unityLesson_CSharp_Collection\\unityLesson_CSharp_Collection.csproj": {}
   },
   "projects": {
-    "C:\\LeeDokyeong\\UnityLesson_CSharp_Basic\\unityLesson_CSharp_Collection\\unityLesson_CSharp_Collection.csproj": {
+    "C:\\LeeDokyeong Unity\\Unity\\UnityLesson_CSharp_Basic\\unityLesson_CSharp_Collection\\unityLesson_CSharp_Collection.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\LeeDokyeong\\UnityLesson_CSharp_Basic\\unityLesson_CSharp_Collection\\unityLesson_CSharp_Collection.csproj",
+        "projectUniqueName": "C:\\LeeDokyeong Unity\\Unity\\UnityLesson_CSharp_Basic\\unityLesson_CSharp_Collection\\unityLesson_CSharp_Collection.csproj",
         "projectName": "unityLesson_CSharp_Collection",
-        "projectPath": "C:\\LeeDokyeong\\UnityLesson_CSharp_Basic\\unityLesson_CSharp_Collection\\unityLesson_CSharp_Collection.csproj",
-        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\LeeDokyeong\\UnityLesson_CSharp_Basic\\unityLesson_CSharp_Collection\\obj\\",
+        "projectPath": "C:\\LeeDokyeong Unity\\Unity\\UnityLesson_CSharp_Basic\\unityLesson_CSharp_Collection\\unityLesson_CSharp_Collection.csproj",
+        "packagesPath": "C:\\Users\\dlgnl\\.nuget\\packages\\",
+        "outputPath": "C:\\LeeDokyeong Unity\\Unity\\UnityLesson_CSharp_Basic\\unityLesson_CSharp_Collection\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\dlgnl\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
         }
       }
     }

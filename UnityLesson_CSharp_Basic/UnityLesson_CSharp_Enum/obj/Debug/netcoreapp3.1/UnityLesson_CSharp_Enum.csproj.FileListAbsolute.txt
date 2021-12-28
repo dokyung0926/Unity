@@ -1,0 +1,14 @@
+C:\LeeDokyeong Unity\Unity\UnityLesson_CSharp_Basic\UnityLesson_CSharp_Enum\obj\Debug\netcoreapp3.1\UnityLesson_CSharp_Enum.csproj.AssemblyReference.cache
+C:\LeeDokyeong Unity\Unity\UnityLesson_CSharp_Basic\UnityLesson_CSharp_Enum\obj\Debug\netcoreapp3.1\UnityLesson_CSharp_Enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\LeeDokyeong Unity\Unity\UnityLesson_CSharp_Basic\UnityLesson_CSharp_Enum\obj\Debug\netcoreapp3.1\UnityLesson_CSharp_Enum.AssemblyInfoInputs.cache
+C:\LeeDokyeong Unity\Unity\UnityLesson_CSharp_Basic\UnityLesson_CSharp_Enum\obj\Debug\netcoreapp3.1\UnityLesson_CSharp_Enum.AssemblyInfo.cs
+C:\LeeDokyeong Unity\Unity\UnityLesson_CSharp_Basic\UnityLesson_CSharp_Enum\obj\Debug\netcoreapp3.1\UnityLesson_CSharp_Enum.csproj.CoreCompileInputs.cache
+C:\LeeDokyeong Unity\Unity\UnityLesson_CSharp_Basic\UnityLesson_CSharp_Enum\bin\Debug\netcoreapp3.1\UnityLesson_CSharp_Enum.exe
+C:\LeeDokyeong Unity\Unity\UnityLesson_CSharp_Basic\UnityLesson_CSharp_Enum\bin\Debug\netcoreapp3.1\UnityLesson_CSharp_Enum.deps.json
+C:\LeeDokyeong Unity\Unity\UnityLesson_CSharp_Basic\UnityLesson_CSharp_Enum\bin\Debug\netcoreapp3.1\UnityLesson_CSharp_Enum.runtimeconfig.json
+C:\LeeDokyeong Unity\Unity\UnityLesson_CSharp_Basic\UnityLesson_CSharp_Enum\bin\Debug\netcoreapp3.1\UnityLesson_CSharp_Enum.runtimeconfig.dev.json
+C:\LeeDokyeong Unity\Unity\UnityLesson_CSharp_Basic\UnityLesson_CSharp_Enum\bin\Debug\netcoreapp3.1\UnityLesson_CSharp_Enum.dll
+C:\LeeDokyeong Unity\Unity\UnityLesson_CSharp_Basic\UnityLesson_CSharp_Enum\bin\Debug\netcoreapp3.1\UnityLesson_CSharp_Enum.pdb
+C:\LeeDokyeong Unity\Unity\UnityLesson_CSharp_Basic\UnityLesson_CSharp_Enum\obj\Debug\netcoreapp3.1\UnityLesson_CSharp_Enum.dll
+C:\LeeDokyeong Unity\Unity\UnityLesson_CSharp_Basic\UnityLesson_CSharp_Enum\obj\Debug\netcoreapp3.1\UnityLesson_CSharp_Enum.pdb
+C:\LeeDokyeong Unity\Unity\UnityLesson_CSharp_Basic\UnityLesson_CSharp_Enum\obj\Debug\netcoreapp3.1\UnityLesson_CSharp_Enum.genruntimeconfig.cache
