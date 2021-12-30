@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\LeeDokyeong Unity\\Unity\\UnityLesson_CSharp_Basic\\UnityLesson_CSharp_Array\\UnityLesson_CSharp_Array.csproj",
+      "projectUniqueName": "C:\\LeeDokyeong Unity\\UnityLesson_CSharp_Basic\\UnityLesson_CSharp_Array\\UnityLesson_CSharp_Array.csproj",
       "projectName": "UnityLesson_CSharp_Array",
-      "projectPath": "C:\\LeeDokyeong Unity\\Unity\\UnityLesson_CSharp_Basic\\UnityLesson_CSharp_Array\\UnityLesson_CSharp_Array.csproj",
+      "projectPath": "C:\\LeeDokyeong Unity\\UnityLesson_CSharp_Basic\\UnityLesson_CSharp_Array\\UnityLesson_CSharp_Array.csproj",
       "packagesPath": "C:\\Users\\dlgnl\\.nuget\\packages\\",
-      "outputPath": "C:\\LeeDokyeong Unity\\Unity\\UnityLesson_CSharp_Basic\\UnityLesson_CSharp_Array\\obj\\",
+      "outputPath": "C:\\LeeDokyeong Unity\\UnityLesson_CSharp_Basic\\UnityLesson_CSharp_Array\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dlgnl\\AppData\\Roaming\\NuGet\\NuGet.Config",

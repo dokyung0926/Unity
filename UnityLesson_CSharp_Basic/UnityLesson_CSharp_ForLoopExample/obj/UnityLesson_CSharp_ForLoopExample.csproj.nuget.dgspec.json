@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\LeeDokyeong Unity\\Unity\\UnityLesson_CSharp_Basic\\UnityLesson_CSharp_ForLoopExample\\UnityLesson_CSharp_ForLoopExample.csproj": {}
+    "C:\\LeeDokyeong Unity\\UnityLesson_CSharp_Basic\\UnityLesson_CSharp_ForLoopExample\\UnityLesson_CSharp_ForLoopExample.csproj": {}
   },
   "projects": {
-    "C:\\LeeDokyeong Unity\\Unity\\UnityLesson_CSharp_Basic\\UnityLesson_CSharp_ForLoopExample\\UnityLesson_CSharp_ForLoopExample.csproj": {
+    "C:\\LeeDokyeong Unity\\UnityLesson_CSharp_Basic\\UnityLesson_CSharp_ForLoopExample\\UnityLesson_CSharp_ForLoopExample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\LeeDokyeong Unity\\Unity\\UnityLesson_CSharp_Basic\\UnityLesson_CSharp_ForLoopExample\\UnityLesson_CSharp_ForLoopExample.csproj",
+        "projectUniqueName": "C:\\LeeDokyeong Unity\\UnityLesson_CSharp_Basic\\UnityLesson_CSharp_ForLoopExample\\UnityLesson_CSharp_ForLoopExample.csproj",
         "projectName": "UnityLesson_CSharp_ForLoopExample",
-        "projectPath": "C:\\LeeDokyeong Unity\\Unity\\UnityLesson_CSharp_Basic\\UnityLesson_CSharp_ForLoopExample\\UnityLesson_CSharp_ForLoopExample.csproj",
+        "projectPath": "C:\\LeeDokyeong Unity\\UnityLesson_CSharp_Basic\\UnityLesson_CSharp_ForLoopExample\\UnityLesson_CSharp_ForLoopExample.csproj",
         "packagesPath": "C:\\Users\\dlgnl\\.nuget\\packages\\",
-        "outputPath": "C:\\LeeDokyeong Unity\\Unity\\UnityLesson_CSharp_Basic\\UnityLesson_CSharp_ForLoopExample\\obj\\",
+        "outputPath": "C:\\LeeDokyeong Unity\\UnityLesson_CSharp_Basic\\UnityLesson_CSharp_ForLoopExample\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dlgnl\\AppData\\Roaming\\NuGet\\NuGet.Config",

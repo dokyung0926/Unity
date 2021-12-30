@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\LeeDokyeong Unity\\Unity\\UnityLesson_CSharp_Basic\\UnityLesson_CSharp_Enum\\UnityLesson_CSharp_Enum.csproj",
+      "projectUniqueName": "C:\\LeeDokyeong Unity\\UnityLesson_CSharp_Basic\\UnityLesson_CSharp_Enum\\UnityLesson_CSharp_Enum.csproj",
       "projectName": "UnityLesson_CSharp_Enum",
-      "projectPath": "C:\\LeeDokyeong Unity\\Unity\\UnityLesson_CSharp_Basic\\UnityLesson_CSharp_Enum\\UnityLesson_CSharp_Enum.csproj",
+      "projectPath": "C:\\LeeDokyeong Unity\\UnityLesson_CSharp_Basic\\UnityLesson_CSharp_Enum\\UnityLesson_CSharp_Enum.csproj",
       "packagesPath": "C:\\Users\\dlgnl\\.nuget\\packages\\",
-      "outputPath": "C:\\LeeDokyeong Unity\\Unity\\UnityLesson_CSharp_Basic\\UnityLesson_CSharp_Enum\\obj\\",
+      "outputPath": "C:\\LeeDokyeong Unity\\UnityLesson_CSharp_Basic\\UnityLesson_CSharp_Enum\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dlgnl\\AppData\\Roaming\\NuGet\\NuGet.Config",

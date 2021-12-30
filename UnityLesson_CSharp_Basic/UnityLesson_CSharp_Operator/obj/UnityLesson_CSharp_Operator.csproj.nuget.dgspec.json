@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\LeeDokyeong Unity\\Unity\\UnityLesson_CSharp_Basic\\UnityLesson_CSharp_Operator\\UnityLesson_CSharp_Operator.csproj": {}
+    "C:\\LeeDokyeong Unity\\UnityLesson_CSharp_Basic\\UnityLesson_CSharp_Operator\\UnityLesson_CSharp_Operator.csproj": {}
   },
   "projects": {
-    "C:\\LeeDokyeong Unity\\Unity\\UnityLesson_CSharp_Basic\\UnityLesson_CSharp_Operator\\UnityLesson_CSharp_Operator.csproj": {
+    "C:\\LeeDokyeong Unity\\UnityLesson_CSharp_Basic\\UnityLesson_CSharp_Operator\\UnityLesson_CSharp_Operator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\LeeDokyeong Unity\\Unity\\UnityLesson_CSharp_Basic\\UnityLesson_CSharp_Operator\\UnityLesson_CSharp_Operator.csproj",
+        "projectUniqueName": "C:\\LeeDokyeong Unity\\UnityLesson_CSharp_Basic\\UnityLesson_CSharp_Operator\\UnityLesson_CSharp_Operator.csproj",
         "projectName": "UnityLesson_CSharp_Operator",
-        "projectPath": "C:\\LeeDokyeong Unity\\Unity\\UnityLesson_CSharp_Basic\\UnityLesson_CSharp_Operator\\UnityLesson_CSharp_Operator.csproj",
+        "projectPath": "C:\\LeeDokyeong Unity\\UnityLesson_CSharp_Basic\\UnityLesson_CSharp_Operator\\UnityLesson_CSharp_Operator.csproj",
         "packagesPath": "C:\\Users\\dlgnl\\.nuget\\packages\\",
-        "outputPath": "C:\\LeeDokyeong Unity\\Unity\\UnityLesson_CSharp_Basic\\UnityLesson_CSharp_Operator\\obj\\",
+        "outputPath": "C:\\LeeDokyeong Unity\\UnityLesson_CSharp_Basic\\UnityLesson_CSharp_Operator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dlgnl\\AppData\\Roaming\\NuGet\\NuGet.Config",
