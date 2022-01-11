@@ -15,7 +15,7 @@
 	EXP 0
 	스킬 : 베기, 내려찍기
 
-	검사를 만들어내기 우한 설계도 (class)
+	검사를 만들어내기 위한 설계도 (class)
 	검사class
 	{
 		HP 100
@@ -374,6 +374,44 @@ ________________________________________________________________________________
 _________________________________________________________________________________________________________________________________________________________________________________
 		
 
+	*****21년 1월 11일*****
+
+	함수 형태
+
+	함수 선언
+	public int TestFunction(int a, int b, int c);
+	
+	함수 정의	     
+	public int TestFunction(int a, int b, int c TestFunctionDelegate)
+	{
+		int value = a+b;
+		value = value/TestFunctionDelegate;
+		return value;
+	}
+
+	Public int TestFunction2(int aa, int b)
+	{
+		int value = a % b;
+		return  = value;
+	}
+
+	Public int TestFunction3(int aa, int b)
+	{
+		int value = a / b;
+		return  = value;
+	}
+
+	호출  	    
+	TestFunction(a,b,c);
+
+	
+
+	Delegate : 대리자
+ 	함수의 인자로 함수를 받고 싶을때 사용
+	
+	delegate 반환형 델리게이트이름(인자);
+
+	
 
 
 
