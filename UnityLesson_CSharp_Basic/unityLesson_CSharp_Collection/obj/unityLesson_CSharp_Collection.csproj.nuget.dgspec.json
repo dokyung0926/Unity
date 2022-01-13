@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\LeeDokyeong Unity\\UnityLesson_CSharp_Basic\\unityLesson_CSharp_Collection\\unityLesson_CSharp_Collection.csproj": {}
+    "C:\\LeeDokyeongUnity\\UnityLesson_CSharp_Basic\\unityLesson_CSharp_Collection\\unityLesson_CSharp_Collection.csproj": {}
   },
   "projects": {
-    "C:\\LeeDokyeong Unity\\UnityLesson_CSharp_Basic\\unityLesson_CSharp_Collection\\unityLesson_CSharp_Collection.csproj": {
+    "C:\\LeeDokyeongUnity\\UnityLesson_CSharp_Basic\\unityLesson_CSharp_Collection\\unityLesson_CSharp_Collection.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\LeeDokyeong Unity\\UnityLesson_CSharp_Basic\\unityLesson_CSharp_Collection\\unityLesson_CSharp_Collection.csproj",
+        "projectUniqueName": "C:\\LeeDokyeongUnity\\UnityLesson_CSharp_Basic\\unityLesson_CSharp_Collection\\unityLesson_CSharp_Collection.csproj",
         "projectName": "unityLesson_CSharp_Collection",
-        "projectPath": "C:\\LeeDokyeong Unity\\UnityLesson_CSharp_Basic\\unityLesson_CSharp_Collection\\unityLesson_CSharp_Collection.csproj",
-        "packagesPath": "C:\\Users\\dlgnl\\.nuget\\packages\\",
-        "outputPath": "C:\\LeeDokyeong Unity\\UnityLesson_CSharp_Basic\\unityLesson_CSharp_Collection\\obj\\",
+        "projectPath": "C:\\LeeDokyeongUnity\\UnityLesson_CSharp_Basic\\unityLesson_CSharp_Collection\\unityLesson_CSharp_Collection.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\LeeDokyeongUnity\\UnityLesson_CSharp_Basic\\unityLesson_CSharp_Collection\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\dlgnl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -49,6 +49,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.22, 3.1.22]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"

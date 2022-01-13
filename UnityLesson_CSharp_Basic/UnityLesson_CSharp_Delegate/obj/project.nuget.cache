@@ -1,12 +1,15 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "BF58LvnfQ/PritZbKk0nAvRhV/EcAZmwv7eAd+Jb0bixUUgikfl5iNDcAAZs7zfDWoreK7E0Ps2iSJuBCGqAfA==",
-=======
-  "dgSpecHash": "+GBXJ8LJOXj5OzGvonwximrfvoISAOyr79CUOVjGx8M/HvE2CnAws2b6Y3MOIFHEh7R5eElD/GWFIqdRfFJz/Q==",
->>>>>>> 10ddb9e2e2d5a5a29a4aef123ab4ec2b1d3ed632
+  "dgSpecHash": "UUlakwyAoVp3uD4+JGAPbA6JJgYCYbf9ssV22kpK5ZxAIB8NJ8EaHZ7VkY4BoxbzR3pecWD7DssKYKI5swTt2g==",
   "success": true,
-  "projectFilePath": "C:\\LeeDokyeong Unity\\UnityLesson_CSharp_Basic\\UnityLesson_CSharp_Delegate\\UnityLesson_CSharp_Delegate.csproj",
+  "projectFilePath": "C:\\LeeDokyeongUnity\\UnityLesson_CSharp_Basic\\UnityLesson_CSharp_Delegate\\UnityLesson_CSharp_Delegate.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "캐시 파일 C:\\LeeDokyeongUnity\\UnityLesson_CSharp_Basic\\UnityLesson_CSharp_Delegate\\obj\\project.nuget.cache을(를) 읽는 동안 문제가 발생했습니다. Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

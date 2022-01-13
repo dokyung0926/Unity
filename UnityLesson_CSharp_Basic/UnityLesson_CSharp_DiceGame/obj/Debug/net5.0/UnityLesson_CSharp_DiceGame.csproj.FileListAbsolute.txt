@@ -1,0 +1,16 @@
+C:\LeeDokyeongUnity\UnityLesson_CSharp_Basic\UnityLesson_CSharp_DiceGame\bin\Debug\net5.0\UnityLesson_CSharp_DiceGame.exe
+C:\LeeDokyeongUnity\UnityLesson_CSharp_Basic\UnityLesson_CSharp_DiceGame\bin\Debug\net5.0\UnityLesson_CSharp_DiceGame.deps.json
+C:\LeeDokyeongUnity\UnityLesson_CSharp_Basic\UnityLesson_CSharp_DiceGame\bin\Debug\net5.0\UnityLesson_CSharp_DiceGame.runtimeconfig.json
+C:\LeeDokyeongUnity\UnityLesson_CSharp_Basic\UnityLesson_CSharp_DiceGame\bin\Debug\net5.0\UnityLesson_CSharp_DiceGame.runtimeconfig.dev.json
+C:\LeeDokyeongUnity\UnityLesson_CSharp_Basic\UnityLesson_CSharp_DiceGame\bin\Debug\net5.0\UnityLesson_CSharp_DiceGame.dll
+C:\LeeDokyeongUnity\UnityLesson_CSharp_Basic\UnityLesson_CSharp_DiceGame\bin\Debug\net5.0\ref\UnityLesson_CSharp_DiceGame.dll
+C:\LeeDokyeongUnity\UnityLesson_CSharp_Basic\UnityLesson_CSharp_DiceGame\bin\Debug\net5.0\UnityLesson_CSharp_DiceGame.pdb
+C:\LeeDokyeongUnity\UnityLesson_CSharp_Basic\UnityLesson_CSharp_DiceGame\obj\Debug\net5.0\UnityLesson_CSharp_DiceGame.csproj.AssemblyReference.cache
+C:\LeeDokyeongUnity\UnityLesson_CSharp_Basic\UnityLesson_CSharp_DiceGame\obj\Debug\net5.0\UnityLesson_CSharp_DiceGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\LeeDokyeongUnity\UnityLesson_CSharp_Basic\UnityLesson_CSharp_DiceGame\obj\Debug\net5.0\UnityLesson_CSharp_DiceGame.AssemblyInfoInputs.cache
+C:\LeeDokyeongUnity\UnityLesson_CSharp_Basic\UnityLesson_CSharp_DiceGame\obj\Debug\net5.0\UnityLesson_CSharp_DiceGame.AssemblyInfo.cs
+C:\LeeDokyeongUnity\UnityLesson_CSharp_Basic\UnityLesson_CSharp_DiceGame\obj\Debug\net5.0\UnityLesson_CSharp_DiceGame.csproj.CoreCompileInputs.cache
+C:\LeeDokyeongUnity\UnityLesson_CSharp_Basic\UnityLesson_CSharp_DiceGame\obj\Debug\net5.0\UnityLesson_CSharp_DiceGame.dll
+C:\LeeDokyeongUnity\UnityLesson_CSharp_Basic\UnityLesson_CSharp_DiceGame\obj\Debug\net5.0\ref\UnityLesson_CSharp_DiceGame.dll
+C:\LeeDokyeongUnity\UnityLesson_CSharp_Basic\UnityLesson_CSharp_DiceGame\obj\Debug\net5.0\UnityLesson_CSharp_DiceGame.pdb
+C:\LeeDokyeongUnity\UnityLesson_CSharp_Basic\UnityLesson_CSharp_DiceGame\obj\Debug\net5.0\UnityLesson_CSharp_DiceGame.genruntimeconfig.cache

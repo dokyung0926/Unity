@@ -1,12 +1,20 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "CLCPqiOu/64O4DzJ7QPsWsGz7McdOVSKRpwpG0O/kpVtDuYbgjp0QdJQUfWRimZZJYBTa3guaHWXpTqpsH3HCg==",
-=======
-  "dgSpecHash": "Zt+IEZ6t/zOliyBttc7vh5yX9mYvvxj/Avaq9H4r25wigFQb49ZGkp9yXSPKRV9r5cKK2LkupJzulQzfYUFqLg==",
->>>>>>> 10ddb9e2e2d5a5a29a4aef123ab4ec2b1d3ed632
+  "dgSpecHash": "C6StDQ/C5HgmyZdVfsI+Sw2oNxJDy/JOOVbnixuRj66U8RkOrHpjoTk6pCXdKLocxbVWvkFNvn/pvFCOY4BDSg==",
   "success": true,
-  "projectFilePath": "C:\\LeeDokyeong Unity\\UnityLesson_CSharp_Basic\\unityLesson_CSharp_Collection\\unityLesson_CSharp_Collection.csproj",
-  "expectedPackageFiles": [],
-  "logs": []
+  "projectFilePath": "C:\\LeeDokyeongUnity\\UnityLesson_CSharp_Basic\\unityLesson_CSharp_Collection\\unityLesson_CSharp_Collection.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "캐시 파일 C:\\LeeDokyeongUnity\\UnityLesson_CSharp_Basic\\unityLesson_CSharp_Collection\\obj\\project.nuget.cache을(를) 읽는 동안 문제가 발생했습니다. Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

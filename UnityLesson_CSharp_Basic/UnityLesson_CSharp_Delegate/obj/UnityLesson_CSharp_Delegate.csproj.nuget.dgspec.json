@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\LeeDokyeong Unity\\UnityLesson_CSharp_Basic\\UnityLesson_CSharp_Delegate\\UnityLesson_CSharp_Delegate.csproj": {}
+    "C:\\LeeDokyeongUnity\\UnityLesson_CSharp_Basic\\UnityLesson_CSharp_Delegate\\UnityLesson_CSharp_Delegate.csproj": {}
   },
   "projects": {
-    "C:\\LeeDokyeong Unity\\UnityLesson_CSharp_Basic\\UnityLesson_CSharp_Delegate\\UnityLesson_CSharp_Delegate.csproj": {
+    "C:\\LeeDokyeongUnity\\UnityLesson_CSharp_Basic\\UnityLesson_CSharp_Delegate\\UnityLesson_CSharp_Delegate.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\LeeDokyeong Unity\\UnityLesson_CSharp_Basic\\UnityLesson_CSharp_Delegate\\UnityLesson_CSharp_Delegate.csproj",
+        "projectUniqueName": "C:\\LeeDokyeongUnity\\UnityLesson_CSharp_Basic\\UnityLesson_CSharp_Delegate\\UnityLesson_CSharp_Delegate.csproj",
         "projectName": "UnityLesson_CSharp_Delegate",
-        "projectPath": "C:\\LeeDokyeong Unity\\UnityLesson_CSharp_Basic\\UnityLesson_CSharp_Delegate\\UnityLesson_CSharp_Delegate.csproj",
-        "packagesPath": "C:\\Users\\dlgnl\\.nuget\\packages\\",
-        "outputPath": "C:\\LeeDokyeong Unity\\UnityLesson_CSharp_Basic\\UnityLesson_CSharp_Delegate\\obj\\",
+        "projectPath": "C:\\LeeDokyeongUnity\\UnityLesson_CSharp_Basic\\UnityLesson_CSharp_Delegate\\UnityLesson_CSharp_Delegate.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\LeeDokyeongUnity\\UnityLesson_CSharp_Basic\\UnityLesson_CSharp_Delegate\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\dlgnl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
