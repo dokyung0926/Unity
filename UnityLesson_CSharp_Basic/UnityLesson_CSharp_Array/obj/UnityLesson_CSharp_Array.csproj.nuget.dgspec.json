@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\LeeDokyeongUnity\\UnityLesson\\UnityLesson_CSharp_Basic\\UnityLesson_CSharp_Array\\UnityLesson_CSharp_Array.csproj": {}
+    "C:\\LeeDokyeong Unity\\UnityLesson_CSharp_Basic\\UnityLesson_CSharp_Array\\UnityLesson_CSharp_Array.csproj": {}
   },
   "projects": {
-    "C:\\LeeDokyeongUnity\\UnityLesson\\UnityLesson_CSharp_Basic\\UnityLesson_CSharp_Array\\UnityLesson_CSharp_Array.csproj": {
+    "C:\\LeeDokyeong Unity\\UnityLesson_CSharp_Basic\\UnityLesson_CSharp_Array\\UnityLesson_CSharp_Array.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\LeeDokyeongUnity\\UnityLesson\\UnityLesson_CSharp_Basic\\UnityLesson_CSharp_Array\\UnityLesson_CSharp_Array.csproj",
+        "projectUniqueName": "C:\\LeeDokyeong Unity\\UnityLesson_CSharp_Basic\\UnityLesson_CSharp_Array\\UnityLesson_CSharp_Array.csproj",
         "projectName": "UnityLesson_CSharp_Array",
-        "projectPath": "C:\\LeeDokyeongUnity\\UnityLesson\\UnityLesson_CSharp_Basic\\UnityLesson_CSharp_Array\\UnityLesson_CSharp_Array.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\LeeDokyeongUnity\\UnityLesson\\UnityLesson_CSharp_Basic\\UnityLesson_CSharp_Array\\obj\\",
+        "projectPath": "C:\\LeeDokyeong Unity\\UnityLesson_CSharp_Basic\\UnityLesson_CSharp_Array\\UnityLesson_CSharp_Array.csproj",
+        "packagesPath": "C:\\Users\\dlgnl\\.nuget\\packages\\",
+        "outputPath": "C:\\LeeDokyeong Unity\\UnityLesson_CSharp_Basic\\UnityLesson_CSharp_Array\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\dlgnl\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

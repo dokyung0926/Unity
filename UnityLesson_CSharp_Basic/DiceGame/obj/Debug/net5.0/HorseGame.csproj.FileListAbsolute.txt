@@ -1,0 +1,15 @@
+C:\LeeDokyeong Unity\UnityLesson_CSharp_Basic\DiceGame\bin\Debug\net5.0\HorseGame.exe
+C:\LeeDokyeong Unity\UnityLesson_CSharp_Basic\DiceGame\bin\Debug\net5.0\HorseGame.deps.json
+C:\LeeDokyeong Unity\UnityLesson_CSharp_Basic\DiceGame\bin\Debug\net5.0\HorseGame.runtimeconfig.json
+C:\LeeDokyeong Unity\UnityLesson_CSharp_Basic\DiceGame\bin\Debug\net5.0\HorseGame.runtimeconfig.dev.json
+C:\LeeDokyeong Unity\UnityLesson_CSharp_Basic\DiceGame\bin\Debug\net5.0\HorseGame.dll
+C:\LeeDokyeong Unity\UnityLesson_CSharp_Basic\DiceGame\bin\Debug\net5.0\ref\HorseGame.dll
+C:\LeeDokyeong Unity\UnityLesson_CSharp_Basic\DiceGame\bin\Debug\net5.0\HorseGame.pdb
+C:\LeeDokyeong Unity\UnityLesson_CSharp_Basic\DiceGame\obj\Debug\net5.0\HorseGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\LeeDokyeong Unity\UnityLesson_CSharp_Basic\DiceGame\obj\Debug\net5.0\HorseGame.AssemblyInfoInputs.cache
+C:\LeeDokyeong Unity\UnityLesson_CSharp_Basic\DiceGame\obj\Debug\net5.0\HorseGame.AssemblyInfo.cs
+C:\LeeDokyeong Unity\UnityLesson_CSharp_Basic\DiceGame\obj\Debug\net5.0\HorseGame.csproj.CoreCompileInputs.cache
+C:\LeeDokyeong Unity\UnityLesson_CSharp_Basic\DiceGame\obj\Debug\net5.0\HorseGame.dll
+C:\LeeDokyeong Unity\UnityLesson_CSharp_Basic\DiceGame\obj\Debug\net5.0\ref\HorseGame.dll
+C:\LeeDokyeong Unity\UnityLesson_CSharp_Basic\DiceGame\obj\Debug\net5.0\HorseGame.pdb
+C:\LeeDokyeong Unity\UnityLesson_CSharp_Basic\DiceGame\obj\Debug\net5.0\HorseGame.genruntimeconfig.cache
