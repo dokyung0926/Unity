@@ -1,6 +1,10 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "isMSh6IclA2BC3pLNfh8FfLjjJqbs+qRAajNRgaaQLLZNPFjOEtl3Tfhy+zZUItI2JcY1/bt7u+SGXn64YJ2BA==",
+=======
+  "dgSpecHash": "OZH61eBwSmqQnU2joQF7plqaZibOEc5WVsEXgIy2zpKfXDeH6vZHEGy++6UfcM4w86LqiCEE+w6R5NFWQCzbNw==",
+>>>>>>> 10ddb9e2e2d5a5a29a4aef123ab4ec2b1d3ed632
   "success": true,
   "projectFilePath": "C:\\LeeDokyeong Unity\\UnityLesson_CSharp_Basic\\UnityLesson_CSharp_GarbageCollector\\UnityLesson_CSharp_GarbageCollector.csproj",
   "expectedPackageFiles": [],

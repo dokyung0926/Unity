@@ -1,6 +1,10 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "Hpay7R9eI5TryX5Wxm5mqz0LYjrUQ7XWYHr06XfKYvuewjQFvAnrm5qEgNSzdUGKL3UqkvoPYRLuY9f7jjHYBw==",
+=======
+  "dgSpecHash": "0r4m8aKMH9kzzx6p4LkZJijXTOEyhSG9TShg7Mcsk+PdKSjREDWNAWNYGVhlYvlBhaznsVzpGi3HN5/nV7IihA==",
+>>>>>>> 10ddb9e2e2d5a5a29a4aef123ab4ec2b1d3ed632
   "success": true,
   "projectFilePath": "C:\\LeeDokyeong Unity\\UnityLesson_CSharp_Basic\\Unity_Lesson_CSharp_ClassInheritance\\Unity_Lesson_CSharp_ClassInheritance.csproj",
   "expectedPackageFiles": [],

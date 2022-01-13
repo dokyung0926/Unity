@@ -1,6 +1,10 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "t76xksPvkfzwu2fSFNgQJ7wtXj04s8FSzRnAKB6VDl9sjmFcBJVnBa5/YruAwR+yFmTdEdkI+vDz50c8M+5uhw==",
+=======
+  "dgSpecHash": "nKtMBLLKGYnT9IGkPgVPlxgTrBasxZWOumiu0CPDi+FJiZoLT/ve6pa01O8PqDh9oVl8o7A3Cf+OqJQZNmhFBA==",
+>>>>>>> 10ddb9e2e2d5a5a29a4aef123ab4ec2b1d3ed632
   "success": true,
   "projectFilePath": "C:\\LeeDokyeong Unity\\UnityLesson_CSharp_Basic\\UnityLesson_CSharp_Operator\\UnityLesson_CSharp_Operator.csproj",
   "expectedPackageFiles": [],

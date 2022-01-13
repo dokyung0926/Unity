@@ -1,6 +1,10 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "ketGeDqT+ng53/6JFKWiaY4oYqvzJzUgLKtEra2e3WbiNYbMWd8Vm2tZ6GyeTYjZvjWIbSWn4u2+5RX049AkUQ==",
+=======
+  "dgSpecHash": "6f0Udhhf6ont0oQeVJ+tUgdWeEK058USWT0pYdBDS3aVq81kwFfjdlvKdmzYO+EEEBen0O4EMDTR/I9fc6d3xQ==",
+>>>>>>> 10ddb9e2e2d5a5a29a4aef123ab4ec2b1d3ed632
   "success": true,
   "projectFilePath": "C:\\LeeDokyeong Unity\\UnityLesson_CSharp_Basic\\UnityLesson_CSharp_WhileLoop\\UnityLesson_CSharp_WhileLoop.csproj",
   "expectedPackageFiles": [],

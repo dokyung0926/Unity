@@ -1,6 +1,10 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "yVHaBaDoLEhJhPUaP7S772DZelgUPOZL7i5ejFqfTRn72zfubkTsyAUsCTrmimVMv+TVSK8HL6zIl+KWdg6wkQ==",
+=======
+  "dgSpecHash": "pmRDYvXEkb7AtTLj8jFFZhffQ8f2ZXe5oTgWXdfSlduzV0Q9eg1yBA/h5v61ueGQD0BRhj4EWwgftCarm5bKDQ==",
+>>>>>>> 10ddb9e2e2d5a5a29a4aef123ab4ec2b1d3ed632
   "success": true,
   "projectFilePath": "C:\\LeeDokyeong Unity\\UnityLesson_CSharp_Basic\\UnityLesson_CSharp_Enum\\UnityLesson_CSharp_Enum.csproj",
   "expectedPackageFiles": [],

@@ -1,6 +1,10 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "BF58LvnfQ/PritZbKk0nAvRhV/EcAZmwv7eAd+Jb0bixUUgikfl5iNDcAAZs7zfDWoreK7E0Ps2iSJuBCGqAfA==",
+=======
+  "dgSpecHash": "+GBXJ8LJOXj5OzGvonwximrfvoISAOyr79CUOVjGx8M/HvE2CnAws2b6Y3MOIFHEh7R5eElD/GWFIqdRfFJz/Q==",
+>>>>>>> 10ddb9e2e2d5a5a29a4aef123ab4ec2b1d3ed632
   "success": true,
   "projectFilePath": "C:\\LeeDokyeong Unity\\UnityLesson_CSharp_Basic\\UnityLesson_CSharp_Delegate\\UnityLesson_CSharp_Delegate.csproj",
   "expectedPackageFiles": [],
