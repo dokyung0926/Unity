@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\dlgnl\\.nuget\\packages\\": {}
+    "C:\\Users\\User\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\LeeDokyeong Unity\\UnityLesson_CSharp_Basic\\DiceGame\\UnityLesson_CSharp_HorseRacing.csproj",
+      "projectUniqueName": "C:\\LeeDokyeongUnity\\UnityLesson_CSharp_Basic\\UnityLEsson_CSharp_HorseRacing\\UnityLesson_CSharp_HorseRacing.csproj",
       "projectName": "UnityLesson_CSharp_HorseRacing",
-      "projectPath": "C:\\LeeDokyeong Unity\\UnityLesson_CSharp_Basic\\DiceGame\\UnityLesson_CSharp_HorseRacing.csproj",
-      "packagesPath": "C:\\Users\\dlgnl\\.nuget\\packages\\",
-      "outputPath": "C:\\LeeDokyeong Unity\\UnityLesson_CSharp_Basic\\DiceGame\\obj\\",
+      "projectPath": "C:\\LeeDokyeongUnity\\UnityLesson_CSharp_Basic\\UnityLEsson_CSharp_HorseRacing\\UnityLesson_CSharp_HorseRacing.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "C:\\LeeDokyeongUnity\\UnityLesson_CSharp_Basic\\UnityLEsson_CSharp_HorseRacing\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\dlgnl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

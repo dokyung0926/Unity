@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uz6L9aQfAdabZX6u06/EQKiu2PWoy9ftZnN2Ck3YLLb2SU6LS73x9oPom49+ymQlGCpEm4w3LKFx0prcQErm3w==",
+  "dgSpecHash": "z66TxXkI+SXd/QA0gkb+Z5yPPDlKmb7AOA8PGVH0m12z/dUnVPp6+jAnhdqmr/ewabRwMYyL4aW8vBPAWglMIQ==",
   "success": true,
-  "projectFilePath": "C:\\LeeDokyeong Unity\\UnityLesson_CSharp_Basic\\DiceGame\\UnityLesson_CSharp_HorseRacing.csproj",
+  "projectFilePath": "C:\\LeeDokyeongUnity\\UnityLesson_CSharp_Basic\\UnityLEsson_CSharp_HorseRacing\\UnityLesson_CSharp_HorseRacing.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

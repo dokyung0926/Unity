@@ -30,7 +30,22 @@
       "ProjectGuid": "f95f8531-7bc8-49e0-8516-1232b01a476f",
       "DisplayName": "UnityLesson_CSharp_DiceGame",
       "ColorIndex": 4
+    },
+    "6409dd49-f9cc-467d-9558-2f160b0f3f80": {
+      "ProjectGuid": "6409dd49-f9cc-467d-9558-2f160b0f3f80",
+      "DisplayName": "UnityLesson_CSharp_GarbageCollector",
+      "ColorIndex": 5
+    },
+    "64d66772-74c9-41af-b2fc-6a4176694344": {
+      "ProjectGuid": "64d66772-74c9-41af-b2fc-6a4176694344",
+      "DisplayName": "UnityLesson_CSharp_Operator",
+      "ColorIndex": 6
+    },
+    "b0f3abc2-b791-404d-950a-9654f10e09a9": {
+      "ProjectGuid": "b0f3abc2-b791-404d-950a-9654f10e09a9",
+      "DisplayName": "UnityLesson_CSharp_HorseRacing",
+      "ColorIndex": 7
     }
   },
-  "NextColorIndex": 5
+  "NextColorIndex": 8
 }
