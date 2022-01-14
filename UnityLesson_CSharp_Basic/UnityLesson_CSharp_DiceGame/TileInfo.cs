@@ -13,7 +13,7 @@ namespace UnityLesson_CSharp_DiceGame
         public string discription; // 칸에대한 설명 
         virtual public void TileEvent() // 이 칸에 도착했을때 실행할 이벤트 함수
         {
-            Console.WriteLine($"Tile number : {index}, The  Player is on {name} , {discription}");
+            Console.WriteLine($"\n{index}번째 칸 도착!\n \n{name}칸입니다! \n{discription}\n");
         }
     }
 }
