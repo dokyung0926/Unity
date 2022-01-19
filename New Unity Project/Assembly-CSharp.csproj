@@ -54,8 +54,9 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Assets\NewBehaviourScript.cs" />
-    <Compile Include="Assets\02.Script\CubeMove.cs" />
     <Compile Include="Assets\CameraMove.cs" />
+    <Compile Include="Assets\02.Script\CubeMove.cs" />
+    <Compile Include="Assets\02.Script\PlayerMove.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

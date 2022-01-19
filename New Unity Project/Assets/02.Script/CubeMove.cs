@@ -11,7 +11,18 @@ public class CubeMove : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        tr = gameObject.GetComponent<Transform>();
+        // transform에 접근해서 좌표에 대한 데이터를 변경시켜도 되지만 굳이 Transform 멤벼변수 tr을 선언해서 
+        // Transform component를 대입한 후에 사용하는 이유
+        // 캐시 메모리 문제 때문 ( 캐시 : 임시로 연산이 용이하도록 생성한 메모리 )
+        // transform을 사용하면 이 멤버변수를 호출할 때 마다 gameObject에 접근해서 getComponent로  Transform 성분을 가져옴 .
+        // 하지만 Transform 멤버면수 tr에다 한번 넣어놓고 사용하면 
+        // tr은 사용할때마다 처음에 넣어줬더 Transform component에 바호 접근하기 때문에
+        // 동시에 아주 많은 게임오브젝트들의 Transform 컴포넌트를 써야하면 그때는 퍼포먼스에서 차이가 난다 .
+
+        tr = gameObject.GetComponent<Transform>(); // 게임오브젝트에게서 Transform 컴포넌트를 가져온다 .
+        tr = this.gameObject.GetComponent<Transform>(); // 이 클래스를 포함하는 게임오브젝트에게서 Transform 컴포넌트를 가져온다 .
+        // tr = this.gameObject.transform; // 게임오브젝트의 멤버변수 transform을 대입한다 . ( 멤버변수 transform에 뭐가 들어있는지 내부 )
+        // tr = gameObject.transform;
     }
 
     // Update는 매 프레임마다 호출되는 함수 .
