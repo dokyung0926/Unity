@@ -43,7 +43,7 @@ namespace UnityLesson_CSharp_DiceGame
 
         static void Main(string[] args)
         {
-             TileMap map = new TileMap(); // 맵 클래스 인스턴스화
+            TileMap map = new TileMap(); // 맵 클래스 인스턴스화
             map.MapSetup(totalTile); // 맵 생성 ( 20칸 )
 
             int currentDiceNumber = totalDiceNumber; // 현재 주사위 갯수, 초기값은 최대 주사위 갯수

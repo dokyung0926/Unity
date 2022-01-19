@@ -45,7 +45,12 @@
       "ProjectGuid": "b0f3abc2-b791-404d-950a-9654f10e09a9",
       "DisplayName": "UnityLesson_CSharp_HorseRacing",
       "ColorIndex": 7
+    },
+    "9e29d5ab-57fb-4edb-8be7-9e49e1004ec2": {
+      "ProjectGuid": "9e29d5ab-57fb-4edb-8be7-9e49e1004ec2",
+      "DisplayName": "DiceGame_Copy",
+      "ColorIndex": 8
     }
   },
-  "NextColorIndex": 8
+  "NextColorIndex": 9
 }
