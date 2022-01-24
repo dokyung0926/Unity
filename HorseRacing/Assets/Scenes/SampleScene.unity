@@ -135,7 +135,7 @@ GameObject:
   - component: {fileID: 43350444}
   - component: {fileID: 43350443}
   - component: {fileID: 43350442}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Player_5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -425,7 +425,7 @@ GameObject:
   - component: {fileID: 272420273}
   - component: {fileID: 272420272}
   - component: {fileID: 272420271}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Player_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -521,7 +521,7 @@ GameObject:
   - component: {fileID: 367064686}
   - component: {fileID: 367064685}
   - component: {fileID: 367064684}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Player_4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -634,7 +634,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 696608864}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 1.378, z: 0}
+  m_LocalPosition: {x: 0, y: 1.43, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1183241655}
@@ -745,7 +745,7 @@ GameObject:
   - component: {fileID: 851664426}
   - component: {fileID: 851664425}
   - component: {fileID: 851664424}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Player_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -957,6 +957,7 @@ GameObject:
   - component: {fileID: 963194228}
   - component: {fileID: 963194227}
   - component: {fileID: 963194226}
+  - component: {fileID: 963194229}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -982,7 +983,7 @@ Camera:
   m_Enabled: 1
   serializedVersion: 2
   m_ClearFlags: 1
-  m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
+  m_BackGroundColor: {r: 0, g: 0.6765175, b: 1, a: 0}
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
   m_FOVAxisMode: 0
@@ -1022,13 +1023,31 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 963194225}
-  m_LocalRotation: {x: 0.20914882, y: -0.5561415, z: 0.14560601, w: 0.7910514}
-  m_LocalPosition: {x: 18.55, y: 8.34, z: -11.18}
-  m_LocalScale: {x: 1, y: 1.991, z: 1}
+  m_LocalRotation: {x: 0.037661985, y: 0.0064461525, z: 0.0040111947, w: 0.9992617}
+  m_LocalPosition: {x: 11.87, y: 8.95, z: -21.76}
+  m_LocalScale: {x: 0.91586, y: 1.8234773, z: 0.91586}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 29.528, y: -70.257, z: -0.149}
+  m_LocalEulerAnglesHint: {x: 4.314, y: 0.758, z: 0.489}
+--- !u!114 &963194229
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 963194225}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f597bb5ad383e2e46aefd9456b6360f7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  list_Player:
+  - {fileID: 851664427}
+  - {fileID: 272420274}
+  - {fileID: 1225702021}
+  - {fileID: 367064687}
+  - {fileID: 43350445}
 --- !u!4 &1055261668 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3529946199232244592, guid: 594c0b30143898f42b66846a76c58a42, type: 3}
@@ -1051,7 +1070,7 @@ GameObject:
   - component: {fileID: 1225702020}
   - component: {fileID: 1225702019}
   - component: {fileID: 1225702018}
-  m_Layer: 0
+  m_Layer: 5
   m_Name: Player_3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1214,7 +1233,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1685477116}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 1.67, z: 0}
+  m_LocalPosition: {x: 0, y: 2.04, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 142577729}
@@ -1317,7 +1336,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1824917892}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 1.52, z: 0}
+  m_LocalPosition: {x: 0, y: 1.75, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1055261668}
