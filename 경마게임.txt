@@ -60,6 +60,34 @@ GameObject 등수 리스트 생성
 
 
 
+_______________________________________________________________________________________________________
+
+	기존에 만든 RacingPlay 스크립트는 SOLID 원칙에 어긋나기에
+	세분화를 시켜주어야 한다.
+
+	1. PlayerMove : 플레이어 이동 스크립트 
+	2. CameraHandler : 카메라 제어
+	3. RacingPlay : 게임의 전반적인 데이터 관리, 등수 업데이트 
+
+	1. PlayerMove		2. CameraHandler			3. RacingPlay 
+	- tr : transform		- tr : Transform			- playerList : List<PlayerMove>
+	+ distance : float						- grade : int
+	_______________________________________________________________________________________________________________
+	- Move() : void		- Tracking1Grade() : void		+ Get1GradePlayer
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
