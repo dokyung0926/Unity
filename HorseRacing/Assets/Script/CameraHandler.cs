@@ -15,8 +15,11 @@ public class CameraHandler : MonoBehaviour
     // 3. 카메라의 위치를 1등 말의 위치에 특정  거리만큼 떨어트려 위치시킨다.
 
     Transform tr;
-    public List<Transform> list_Player;
-    Transform leader;
+
+    public Vector3 offset;
+    Transform target;
+    int targetIndex;
+
     private void Start()
     {
         tr = this.gameObject.GetComponent<Transform>();
@@ -24,18 +27,26 @@ public class CameraHandler : MonoBehaviour
 
     private void Update()
     {
-        // 1등 말 체크하는 방법 : z 축 값을 비교한다 .
-        // foreach문이 돌때 그전 요소의 z축 값을 저장해두면 현재 foreach문 요소와 비교 할 수 있다 .
-        float prevZ = 0;
-        leader = list_Player[0];
-        foreach (Transform player in list_Player)
-        {
-            if (player.position.z > prevZ)
-            {
-                leader = player;
-                prevZ = player.position.z;
-            }
-        }
-        tr.position = leader.position;
+        if (Input.GetKeyDown("tab"))
+            SwitchNextTarget();
+
+        if (target == null)
+            SwitchNextTarget();
+        else
+        tr.position = target.position + offset;
+    }
+
+    // 다음 플레이어로 타겟을 변경하는 기능
+    public void SwitchNextTarget()
+    {
+        targetIndex++;
+        if (targetIndex > RacingPlay.instance.GetTotalPlayerNumber() - 1)
+            targetIndex = 0;
+        target = RacingPlay.instance.GetPlayer(targetIndex);
+    }
+
+    public void SwitchTargetTo1Grade()
+    {
+        target = RacingPlay.instance.Get1GradePlayer();
     }
 }
